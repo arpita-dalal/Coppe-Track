@@ -57,3 +57,20 @@ The pipeline is divided into the following sequential stages:
 6. **Tracking Refinement:** An optional secondary pass to refine coordinates based on localized search parameters.
 
 Outputs, including the CSV of coordinate positions and a trajectory plot, will be saved to the `data/output/` folder.
+
+## Citation
+
+If you use FastTOP in your research, please cite our paper:
+
+```bibtex
+@article{dalal_et_al_CoppeTrack,
+  title={Temperature-dependent risk cues suppress the functional response of copepods},
+  author={Dalal, Arpita, Halder, Prithish and DeLong, John, P.},
+  journal={(Under Review)},
+  year={2026}
+}
+```
+
+## License
+
+This project is licensed under the GPl-3.0 License - see the [LICENSE](LICENSE) file for details.
