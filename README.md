@@ -60,7 +60,7 @@ Outputs, including the CSV of coordinate positions and a trajectory plot, will b
 
 ## Citation
 
-If you use FastTOP in your research, please cite our paper:
+If you use Coppe-Track in your research, please cite our paper:
 
 ```bibtex
 @article{dalal_et_al_CoppeTrack,
